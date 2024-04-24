@@ -1,4 +1,4 @@
-# laravel-blog
+# Blogging System
 
 This is a blogging website created in Laravel whereby users can:
 
